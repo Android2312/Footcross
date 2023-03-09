@@ -13,6 +13,9 @@ body{
     background-color: #27676C;
     color: aliceblue;
 }
+p{
+ color:white;   
+}
 .logo{
     width: 5%;
     height: 5%;
