@@ -1,0 +1,38 @@
+header {
+    background-color: #133441; /*  цвет фона  */
+    color: white; /*  цвет текста  */
+    padding: 20px; /*  отступы для содержимого шапки */
+}
+footer{
+    display: flex;
+    justify-content: end;
+    color:aliceblue;
+    background-color: #393A3F;
+}
+body{
+    background-color: #27676C;
+    color: aliceblue;
+}
+.logo{
+    width: 5%;
+    height: 5%;
+}
+.nav-list {
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    text-decoration: none;
+}
+.nav-list a {
+    font-family: 'Tiro Devanagari Marathi', serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-left: 20px;
+}
+.left{
+    display: flex;
+    justify-content: end;
+    font-size: 20px;
+}
