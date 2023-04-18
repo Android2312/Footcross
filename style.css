@@ -51,7 +51,7 @@ pre{
     font-size: 35px;
     text-align:center;
    }
-@media  (max-width: 412px){
+@media  (max-width: 430px){
     .nav-list h1{
         font-size: 18px;
 
